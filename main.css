@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 1340px;
+    padding: 22px 0;
+    background: rgba(243, 215, 183, 1);
+}
+header h3{
+    font-size: 12px;
+}
+header a{
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+}
+.header-box{
+    margin: 0 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right-menu{
+    display: flex;
+    gap: 50px;
+}
+.section{
+    width: 1440px;
+    font-size: 64px;
+    padding: 150px 30px 0;
+    background: rgba(243, 215, 183, 1);
+    height: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.section p{
+    font-size: 16px;
+    margin-top: 47px;
+}
+.section button{
+    width: 193px;
+    height: 51px;
+    background: rgba(10, 119, 95, 1);
+    border-radius: 100px;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+}
+.section .img{
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    width: 710px;
+    height: 694px;
+    margin-top: 176px;
+    margin-left: 730px;
+}
+.section2{
+    background: white;
+    height: 1798px;
+
+}
+.section2 h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 108px;
+}
+.section{
+    
+}
+
